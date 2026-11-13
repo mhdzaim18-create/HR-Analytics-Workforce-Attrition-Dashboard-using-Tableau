@@ -1,15 +1,20 @@
 📊 HR Analytics & Employee Attrition Dashboard
 An interactive Tableau dashboard designed to evaluate workforce demographics, analyze employee attrition rates across departments, and surface key metrics for strategic HR decision-making.
+
 📌 Project Overview
 Workforce retention and attrition management are critical for maintaining organizational stability and productivity. This Tableau dashboard provides HR stakeholders with actionable insights into headcounts, active employee distributions, turnover trends, and high-risk demographic segments.
+
 🛠️ Tech Stack & Tools
 Bullet BI & Visualization: Tableau Desktop / Tableau Public
 Bullet Data Processing & Prep: Microsoft Excel / CSV
 Bullet Design Architecture: Custom background layouts for enhanced UI/UX and clear visual hierarchy
+
 📂 Data Source & Schema
 Bullet Dataset: Employee records capturing demographic data, job roles, satisfaction ratings, and attrition status.
 Bullet Key Fields Used: Employee ID, Attrition (Yes/No), Department, Education Field, Age, Job Role, Monthly Income, and Job Satisfaction Ratings.
+
 🔑 Key Features & Highlights
+
 🎯 Business Problem & Objectives
 Bullet Problem Statement: HR executives lacked consolidated visibility into why talent was leaving the organization and which business units suffered the highest turnover.
 Bullet Dashboard Goal: Provide an interactive analytical system to track headcount shifts, departmental losses, and employee satisfaction trends in real time.
