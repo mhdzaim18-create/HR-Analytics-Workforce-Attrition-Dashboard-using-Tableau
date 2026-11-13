@@ -48,6 +48,6 @@ Workforce retention and attrition management are critical for maintaining organi
 
 ## 🖼️ Dashboard Preview 
 
-![HR Analytics Dashboard Preview](./assets/hr_dashboard_preview.png)
+![HR Analytics Dashboard Preview](https://github.com/mhdzaim18-create/HR-Analytics-Workforce-Attrition-Dashboard-using-Tableau/blob/main/HR%20Analytics%20Dashboard.png)
 
 
